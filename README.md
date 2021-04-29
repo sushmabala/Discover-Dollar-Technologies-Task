@@ -1,4 +1,3 @@
-![Task 2 output](https://user-images.githubusercontent.com/58509992/116601774-7b853900-a948-11eb-8e06-a9753463574d.jpeg)
 # Discover-Dollar-Technologies-Task
 
 Task 1
